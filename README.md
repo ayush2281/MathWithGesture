@@ -8,7 +8,8 @@ Sure! Here's a README file for your project with some animations and emojis to m
 
 I'm thrilled to share my latest project, the **Virtual Math Calculator**, which leverages the power of AI to solve mathematical equations through hand gestures. This innovative tool uses OpenCV, MediaPipe, and Google's Gemini API to provide a seamless and interactive experience.
 
-![Virtual Math Calculator Workflow] ![Workflow](workflow.png)
+![Virtual Math Calculator Workflow] 
+![Workflow](workflow.png)
 
 
 ## How It Works:
