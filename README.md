@@ -16,6 +16,12 @@ I'm thrilled to share my latest project, the **Virtual Math Calculator**, which 
 3. **Reset/Erase** 🗑️: Raise your thumb to reset or erase the canvas.
 4. **Submit for Solving** ✅: Show the gesture with only your thumb down and four fingers up (0,1,1,1,1) to submit the equation for solving.
 
+
+![Workflow](Workflow.png)
+
+
+
+
 ## Key Features:
 - **AI-Powered** 🤖: Utilizes the Gemini API for accurate and efficient problem-solving.
 - **Interactive** 🎨: Real-time hand gesture recognition for a smooth user experience.
