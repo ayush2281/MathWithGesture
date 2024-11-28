@@ -1,3 +1,4 @@
+
 import cvzone  # Importing cvzone for hand tracking and gesture recognition
 import cv2  # Importing OpenCV for video capture and image processing
 import mediapipe as mp  # Importing MediaPipe for hand detection
